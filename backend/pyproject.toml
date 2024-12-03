@@ -1,0 +1,10 @@
+[tool.pytest.ini_options]
+pythonpath = "src"
+
+'''
+newer standard
+centralized configuration file for python projects
+replace various tools
+this specific one is for eventual tests
+a good practice
+'''
